@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Find The Differences</string>
+    <string name="textSearch">Search Level</string>
+    <string name="butlvl1">Level 1</string>
+    <string name="butLvl2">Level 2</string>
+    <string name="butLvl3">Level 3</string>
+    <string name="iterationTheDifferences">Left to find %1$d differences</string>
+    <string name="left5differences">Left to find 5 differences</string>
+    <string name="textLevelCompleted">Level %1$d %2$s</string>
+    <string name="textCompleted">Completed</string>
+</resources>

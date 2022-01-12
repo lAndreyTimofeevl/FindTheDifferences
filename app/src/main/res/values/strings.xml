@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Find The Differences</string>
+    <string name="textSearch">Выберите уровень</string>
+    <string name="butlvl1">Уровень 1</string>
+    <string name="butLvl2">Уровень 2</string>
+    <string name="butLvl3">Уровень 3</string>
+    <string name="iterationTheDifferences">Осталось найти %1$d отличий</string>
+    <string name="left5differences">Осталось найти 5 отличий</string>
+    <string name="textLevelCompleted">Уровень %1$d %2$s</string>
+    <string name="textCompleted">Пройден</string>
+</resources>
