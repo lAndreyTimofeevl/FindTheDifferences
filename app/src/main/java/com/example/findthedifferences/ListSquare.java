@@ -26,7 +26,7 @@ public class ListSquare {
         answers3.add(new Square(25, 253, 57, 272));
         answers3.add(new Square(70, 296, 83, 304));
         answers3.add(new Square(45, 318, 157, 332));
-        answers3.add(new Square(45, 318, 157, 332));
+        answers3.add(new Square(145, 320, 160, 345));
 
     }
 
